@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-int main()
+int main(int argc, char **argv)
 {
     std::vector<char> message;
     message = {'H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!', '\n'};
