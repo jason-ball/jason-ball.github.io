@@ -15,3 +15,9 @@ int main()
     return 0;
 }
 ```
+
+### Active Projects:
+* [cpp-web-server](https://jason-ball.com/cpp-web-server)
+  * A **VERY** basic server for serving static content (HTML, CSS, JavaScript, etc.)
+* [JASON_BALL_CMSC312_2019](https://github.com/jason-ball/JASON_BALL_CMSC312_2019)
+  * CMSC 312 project: Simulating an Operating System
