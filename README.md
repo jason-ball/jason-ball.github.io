@@ -12,5 +12,6 @@ int main()
     {
         std::cout << character;
     }
+    return 0;
 }
 ```
