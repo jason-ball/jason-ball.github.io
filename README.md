@@ -2,12 +2,12 @@
 
 My name is Jason and welcome to my GitHub! I am a Computer Science student at Virginia Commonwealth University and I am graduating next spring. For the next several months, I am also an full stack intern at NOAA's [Florida Keys National Marine Sanctuary](https://floridakeys.noaa.gov/welcome.html).
 
-## My Résumé:
+# My Résumé:
 
-# Jason Eric Ball Jr.
+## Jason Eric Ball Jr.
 Email: [jason@jasonball.dev](mailto:jason@jasonball.dev)
 
-## Education:
+### Education:
 **Virginia Commonwealth University (2019-2021)**
 
 Bachelor of Science
@@ -20,7 +20,7 @@ Associate of Science
 
 Major in Computer Science
 
-## Relevant Courses and Coursework:
+### Relevant Courses and Coursework:
 - Software as a Service
   - Web apps with Flask
 - Software Engineering
@@ -28,7 +28,7 @@ Major in Computer Science
 - Algorithm Analysis
 - Graph Theory
 
-## Skills:
+### Skills:
 - JavaScript (Node.js, Express, React, Vue.js)
 - Python (Flask, Django)
 - Swift/iOS
@@ -39,7 +39,7 @@ Major in Computer Science
 - Golang
 - Databases (MySQL, PostgreSQL, MongoDB)
 
-## Relevant Experience:
+### Relevant Experience:
 **Full Stack Intern (August 2020 – May 2021)**
 **National Oceanic and Atmospheric Administration (NOAA)**
 - In a team, developed a web app to train scuba divers about coral reef
