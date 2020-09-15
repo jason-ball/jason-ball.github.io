@@ -44,3 +44,5 @@ Major in Computer Science
 **National Oceanic and Atmospheric Administration (NOAA)**
 - In a team, developed a web app to train scuba divers about coral reef
 conservation for NOAA's Florida Keys National Marine Sanctuary using Vue.js, Nuxt.js, MongoDB, and Tailwind CSS.
+
+🌈
