@@ -1,12 +1,5 @@
-### Hi there 👋
-
-My name is Jason, and I am a Computer Science graduate at Virginia Commonwealth University.
-
-# My Résumé:
-
-# Jason Eric Ball Jr.
+# Jason Ball.
 - Email: [jason@jasonball.dev](mailto:jason@jasonball.dev)
-- Website: [jasonball.dev](https://jasonball.dev)
 
 ## Education:
 **Virginia Commonwealth University, College of Engineering (2019-2021)**
@@ -15,16 +8,18 @@ Bachelor of Science
 
 Major in Computer Science, Concentration in Software Engineering
 
-**John Tyler Community College (2017-2019)**
-
-Associate of Science
-
-Major in Computer Science
-
 ## Relevant Experience:
 **Full Stack Intern (August 2020 – May 2021, Remote)**\
 **National Oceanic and Atmospheric Administration (NOAA)**
-- In a team of four, developed a web app for NOAA’s Florida Keys National Marine Sanctuary to educate scuba divers about coral reefs using Vue.js, Nuxt.js, Tailwind CSS, Netlify CMS, Express.js, MongoDB, and Docker.
+- Engineered web applications with JavaScript,
+MongoDB, and PostgreSQL.
+- Modernized existing server infrastructure using
+Docker.
+- Lead regular meetings with other interns and
+scientists.
+- Minimized onboarding time by creating a Docker
+container with all necessary development tools,
+SDKs, databases, and mock data.
 
 ## Technical Skills:
 - **Languages**: JavaScript/TypeScript, Python, Swift, Java, C/C++, C#, and Golang
@@ -33,17 +28,18 @@ Major in Computer Science
 - **Operating Systems**: Linux, macOS, Windows, iOS, and Android
 - **AWS**: Lambda, EC2, S3, RDS, API Gateway, IAM, and CloudFront
 
-## Relevant Courses and Coursework:
-- Software as a Service
-  - Web apps with Flask
+## Relevant Courses:
+- Java Programming
+- Systems Programming with C
+- Software as a Service (SaaS)
 - Software Engineering
-  - Android app development
-- User Interface Design
+- User Interface Design and Testing
 - Software Analysis and Testing
-- Data Communication and Networking
-- Algorithm Analysis
-- Graph Theory
-- **Senior Project**
-  - In a team of four, developed an exhibit for the Science Museum of Virginia showing how lower air quality disproportionally affects lower income communities and communities of color using an interactive map developed with ArcGIS JS, Java Spring, Angular, PostgreSQL, AWS Lambda, and AWS RDS.
+- Algorithm Analysis and Data Structures
+## Relevant Coursework:
+- Web applications with Flask, Docker, and Ansible.
+- Developed an exhibit for the Science Museum of
+Virginia to educate people about climate change
+using ArcGIS, Angular, Spring, and Docker.
 
 🌈
