@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  width: initial !important;
+  position: initial !important;
+  bottom: initial !important;
+}
+
+a .gpg {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
